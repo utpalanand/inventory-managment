@@ -1,0 +1,62 @@
+
+
+
+body{
+    margin:0;
+    background-image: url("p.jpg");
+   background-size:cover;
+    background-position:centre;
+     height: 100%;
+
+}
+header{
+    background: black;
+    color:white;
+    padding:8px 0px 6px 40px;
+}
+header h1{
+    display:inline;
+    float:left;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+nav ul{
+    
+    display:inline;
+}
+nav ul li{
+    display:inline-block;
+    list-style: none;
+    color:white;
+    float:left;
+    margin-right:85px;
+}
+nav ul li a{
+    color:white;
+    text-decoration: none;
+}
+ul li a:hover{
+    color:crimson;
+}
+.homered{
+    background-color: red;
+    padding:30px 10px 11px 14px;
+}
+
+/*
+.full-img{
+    width:100%;
+    height:100%;    
+}
+*/
+/*
+.full{
+    text-align: center;
+   
+}
+*/
+.text{
+    margin-top: 300px;
+   text-align: center;
+    color:chartreuse;
+}
